@@ -1,4 +1,8 @@
 ## ECT402 - Wireless Communication
 ### [Syllabus](docs/ECT402-WC-SYLLABUS.pdf)
 ### Tutorial
-+ [Reuse Distance, SIR](docs/WC_TUTORIAL1.pdf) 
++ [Cellular Basics, Frequency Reuse, Reuse Ratio, SIR](docs/WC_TUTORIAL1.pdf) 
+### References
++ [NPTEL Lecture: Wireless Communication, Dr. Ranjan Bose, IIT Delhi](https://nptel.ac.in/courses/117102062)
++ [Book: Wireless Communications, Andrea Goldsmith](https://www.cambridge.org/core/books/wireless-communications/800BA8A8211FBECB133A7BB77CD2E2BD)
++ [Book: Wireless Communications: Principles and Practice, Theodore S. Rappaport](https://www.pearsoned.co.in/prc/book/theodore-s-rappaport-wireless-communications-principles-practice-2e-2/9788131731864)
