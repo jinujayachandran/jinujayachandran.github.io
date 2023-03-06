@@ -1,4 +1,4 @@
-![Jinu Jayachandran](https://github.com/jinujayachandran/jinujayachandran.github.io/blob/main/images/Photo.jpg)
+![Jinu Jayachandran](./images/Photo.jpg)
 
 ## ACADEMICS
 ### AY2022-2023
