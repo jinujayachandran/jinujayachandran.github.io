@@ -1,4 +1,4 @@
-|![Jinu Jayachandran](./images/Photo.jpg)| *JINU JAYACHANDRAN*  *Department of Electronics And Communication*|
+|![Jinu Jayachandran](./images/Photo.jpg)| *JINU JAYACHANDRAN* \\ *Department of Electronics And Communication*|
 |----------------------------------------|--------------------|
 
 ## ACADEMICS
