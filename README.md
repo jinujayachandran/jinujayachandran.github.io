@@ -1,4 +1,4 @@
-![Jinu Jayachandran]<img src="https://github.com/jinujayachandran/jinujayachandran.github.io/blob/main/images/Photo.jpeg" width="200">
+<img src="https://github.com/jinujayachandran/jinujayachandran.github.io/blob/main/images/Photo.jpeg" width="200">{: style="float: left"}
 
 ### ECT402 - Wireless Communication
 #### Tutorial
