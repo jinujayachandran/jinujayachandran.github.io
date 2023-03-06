@@ -1,4 +1,5 @@
 |![Jinu Jayachandran](./images/Photo.jpg)| *JINU JAYACHANDRAN*|
+|----------------------------------------|--------------------|
 
 ## ACADEMICS
 ### AY2022-2023
