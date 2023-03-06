@@ -8,7 +8,7 @@
 + [ECL332 - Communication Lab](ecl332cl.md)
 
 ## Research Area
-+ [Orthogonal Time Frequency Modulation](https://ieeexplore.ieee.org/abstract/document/7925924)
++ [Orthogonal Time Frequency Space Modulation](https://ieeexplore.ieee.org/abstract/document/7925924)
 + [Intelligent Reconfigurable Surfaces for Wireless Communication](https://www.youtube.com/watch?v=PmTjNGabrkA)
 + [Massive MIMO](https://ieeexplore.ieee.org/document/6736761)
 
