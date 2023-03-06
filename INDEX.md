@@ -1,5 +1,5 @@
-|![Jinu Jayachandran](./images/Photo.jpg)| *JINU JAYACHANDRAN*<br />*Assistant Professor*<br />*Department of Electronics And Communication*<br />*College of Engineering Trivandrum*|
-|----------------------------------------|--------------------|
+| *JINU JAYACHANDRAN*<br />*Assistant Professor*<br />*Department of Electronics And Communication*<br />*College of Engineering Trivandrum*|
+|----------------------------------------|
 
 ## ACADEMICS
 ### AY2022-2023
