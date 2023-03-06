@@ -1,6 +1,5 @@
-| *JINU JAYACHANDRAN*<br />*Assistant Professor*<br />*Department of Electronics And Communication*<br />*College of Engineering Trivandrum*|
-|----------------------------------------|
-
+|JINU JAYACHANDRAN<br />Assistant Professor<br /> Department of Electronics And Communication <br /> College of Engineering Trivandrum<br />|
+|-------------------------------------------------------------------------------------------------------------------------------------|
 ## ACADEMICS
 ### AY2022-2023
 #### COURSES
@@ -15,13 +14,13 @@
 ## Publications
 
 ## Academic Qualifications
-|*Qualification*|*Intitute*|*Year Of Passing*|
+|Qualification|Intitute|Year Of Passing|
 |---------------|----------|-----------------|
 |Ph.D           |IIT Delhi | Pursuing        |
 |M.Tech         |IIT Bombay| 2014            |
 |B.Tech         |Amrita Vishwa Vidyapeetham, Amritapuri Campus| 2008|
 ## Industrial Experience
-|*Company*|*Designation*|*Experience*|
+|Company|Designation|Experience|
 |---------|-------------|------------|
 |Quest Global|Senior Software Engineer|14 Months|
 |Gram Power|Senior Embedded Engineer|15 Months|
