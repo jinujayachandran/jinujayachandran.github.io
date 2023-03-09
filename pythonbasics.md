@@ -12,7 +12,7 @@
 + [Dr. Nikhil M](http://ece.cet.ac.in/nikhil-m/)
 
 ## Materials
-+ File Handling '.txt' file [results.txt](https://github.com/jinujayachandran/jinujayachandran.github.io/blob/main/docs/trainingstakencet/results.txt)
++ File Handling '.txt' file [results.txt](docs/trainings/results.txt)
 
 ## References
 + [Learn Python Programming - programiz.com](https://www.programiz.com/python-programming)
