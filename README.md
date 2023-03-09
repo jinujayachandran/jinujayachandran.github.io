@@ -6,6 +6,9 @@
 + [ECT402 - Wireless Communication](ect402wc.md)
 + [ECL332 - Communication Lab](ecl332cl.md)
 
+## Trainings Taken
++ [CET: Basics of Python](https://github.com/jinujayachandran/jinujayachandran.github.io/blob/main/docs/trainingstakencet/pythonbasics.md)
+
 ## Research Area
 + [Orthogonal Time Frequency Space Modulation](https://ieeexplore.ieee.org/abstract/document/7925924)
 + [Intelligent Reconfigurable Surfaces for Wireless Communication](https://www.youtube.com/watch?v=PmTjNGabrkA)
