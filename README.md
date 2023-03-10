@@ -1,10 +1,13 @@
 |JINU JAYACHANDRAN<br />Assistant Professor<br /> Department of Electronics And Communication <br /> College of Engineering Trivandrum<br />|
 |-------------------------------------------------------------------------------------------------------------------------------------|
 ## ACADEMICS
+Details of courses academic year wise
 ### AY2022-2023
-#### COURSES
-+ [ECT402 - Wireless Communication](ect402wc.md)
-+ [ECL332 - Communication Lab](ecl332cl.md)
+The academic year 2022-2023 started on 12-Septmber-2023. The courses listed are the ones taken at College of Engineering Trivandrum.
+#### Courses
++  S7AEI: AET443 - FPGA Based System Design
++ [S8ECE: ECT402 - Wireless Communication](ect402wc.md)
++ [S6ECE: ECL332 - Communication Lab](ecl332cl.md)
 
 ## Trainings Taken
 + [Basics of Python at CET](pythonbasics.md)
@@ -19,15 +22,23 @@
 ## Academic Qualifications
 |Qualification|Intitute|Year Of Passing|
 |---------------|----------|-----------------|
-|Ph.D           |IIT Delhi | Pursuing        |
-|M.Tech         |IIT Bombay| 2014            |
-|B.Tech         |Amrita Vishwa Vidyapeetham, Amritapuri Campus| 2008|
-## Industrial Experience
-|Company|Designation|Experience|
+|Ph.D           |[IIT Delhi](www.ee.iitd.ac.in) | Pursuing        |
+|M.Tech         |[IIT Bombay](www.ee.iitb.ac.in)| 2014            |
+|B.Tech         |[Amrita Vishwa Vidyapeetham, Amritapuri Campus](https://www.amrita.edu/program/btech-electronics-and-communication-engineering/)| 2008|
+
+## Academic Experience
+|Institute|Designation|Experience|
 |---------|-------------|------------|
-|Quest Global|Senior Software Engineer|14 Months|
-|Gram Power|Senior Embedded Engineer|15 Months|
-|Tata Elxsi|Automotive Embedded Engineer|24 Months|
+|[Government Engineering College Wayanad](https://www.gecwyd.ac.in/)|Assistant Professor|37 Months|
+
+## Industrial Experience
+|Company|Designation|Experience|Location|
+|---------|-------------|------------|----------|
+|[Quest Global](https://www.quest-global.com/)|Senior Software Engineer|14 Months|Thiruvananthapuram|
+|[Gram Power](https://www.grampower.com/)|Senior Embedded Engineer|15 Months|Jaipur|
+|[Tata Elxsi](https://www.tataelxsi.com/)|Automotive Embedded Engineer|24 Months|Thiruvananthapuram|
+
+
 ## Technical Publications
 + [J. Jayachandran, K. Biswas, S. K. Mohammed and E. G. Larsson, "Efficient Techniques for In-Band System Information Broadcast in Multi-Cell Massive MIMO," in IEEE Transactions on Communications, vol. 68, no. 10, pp. 6157-6173, Oct. 2020, doi: 10.1109/TCOMM.2020.3007497.](https://ieeexplore.ieee.org/document/9133545)
 + [J. Jayachandran, K. Biswas, S. K. Mohammed and E. G. Larsson, "Efficient Techniques For in-band System Information Broadcast in Multi-Cell Massive Mimo," ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2020, pp. 5140-5144, doi: 10.1109/ICASSP40776.2020.9053435. ](https://ieeexplore.ieee.org/document/9053435)
