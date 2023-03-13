@@ -1,7 +1,7 @@
 ## ECT402 - Wireless Communication
 ### [Syllabus](docs/ECT402-WC-SYLLABUS.pdf)
 ### Assignments
-+ [Assignment 1 -Signal to Interference Ratio variation with respect to cell radius and reuse distance](docs/WC_SimA1.pdf)
++ [Assignment 1: Signal to Interference Ratio variation with respect to cell radius and reuse distance](docs/WC_SimA1.pdf)
 ### Tutorial
 + [Cellular Basics, Frequency Reuse, Reuse Ratio, SIR](docs/WC_TUTORIAL1.pdf) 
 ### References
