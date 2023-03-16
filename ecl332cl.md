@@ -5,3 +5,8 @@
 + [Experiment 1: Simulation of Pulse Coded Modulation](docs/Exp1_PCM.pdf)
 + Experiment 2: Delta Modulation and Demodulation
 + [Experiment 3: BPSK Modulation and Demodulation](docs/Bpsk-CircuitDiagram-ModulationDemodulation.pdf)
++ Experiment 4: Simulation of BER of BPSK
++ Experiment 5: Simulation of BER of QPSK
++ Experiment 6: Simulation of Pulse Shaping for transmission
++ Experiment 7: Simulation of Eye Diagram
++ Experiment 8: Familiarization of SDR
