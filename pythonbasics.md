@@ -12,7 +12,8 @@
 + [Dr. Nikhil M](http://ece.cet.ac.in/nikhil-m/)
 
 ### Challenges
-+ [Basic Python Exercises](docs/Python_Training_Exercises.pdf)
++ [Basic Python Exercises 1](docs/Python_Training_Exercises.pdf)
++ [Basic Python Exercises 2](docs/Python_Training_Exercises2.pdf)
 
 ## Materials
 + File Handling '.txt' file [results.txt](docs/trainings/results.txt)
