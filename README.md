@@ -30,7 +30,9 @@ The academic year 2022-2023 started on 12-Septmber-2022. The courses listed are 
 ## Academic Experience
 |Institute|Designation|Experience|
 |---------|-------------|------------|
+|[College of Engineering Trivandrum](https://www.ee.cet.ac.in/)|Assistant Professor|Current|
 |[Government Engineering College Wayanad](https://www.gecwyd.ac.in/)|Assistant Professor|37 Months|
+
 
 ## Industrial Experience
 |Company|Designation|Experience|Location|
