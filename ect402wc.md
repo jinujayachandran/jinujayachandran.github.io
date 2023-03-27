@@ -6,7 +6,7 @@
 ### Tutorial
 + [Cellular Basics, Frequency Reuse, Reuse Ratio, SIR](docs/WC_TUTORIAL1.pdf) 
 ### Series
-+ [First Series QP](docs/ECL402-WC-SERIES1.pdf) | [Answer Key and Scheme of Evaluation] (docs/Series1-SchemeOfEvaluation.pdf) | [Click here if there any issues in the key](https://forms.gle/CnykL3cBnkPceftD6)
++ [First Series QP](docs/ECL402-WC-SERIES1.pdf) || [Answer Key and Scheme of Evaluation](docs/Series1-SchemeOfEvaluation.pdf) || [Click here if there any issues in the key](https://forms.gle/CnykL3cBnkPceftD6)
 ### References
 + [NPTEL Lecture: Wireless Communication, Dr. Ranjan Bose, IIT Delhi](https://nptel.ac.in/courses/117102062)
 + [Book: Wireless Communications, Andrea Goldsmith](https://www.cambridge.org/core/books/wireless-communications/800BA8A8211FBECB133A7BB77CD2E2BD)
