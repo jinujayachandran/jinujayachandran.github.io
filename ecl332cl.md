@@ -6,6 +6,7 @@
 + Experiment 2: Delta Modulation and Demodulation
 + [Experiment 3: BPSK Modulation and Demodulation](docs/Bpsk-CircuitDiagram-ModulationDemodulation.pdf)
 + Experiment 4: Simulation of BER of BPSK
+  - [Image](images/cameraman.jpg)
 + Experiment 5: Simulation of BER of QPSK
 + Experiment 6: Simulation of Pulse Shaping for transmission
 + Experiment 7: Simulation of Eye Diagram
