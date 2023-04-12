@@ -8,7 +8,7 @@
 + Experiment 4: Simulation of BER of BPSK
   - [Details of Experiment](docs/Exp4_BPSK.pdf)
   - [Image for Simulation](images/cameraman.png)
-+ Experiment 5: Simulation of BER of QPSK
++ [Experiment 5: Simulation of BER of QPSK](docs/Exp5_MPSK.pdf)
 + Experiment 6: Simulation of Pulse Shaping for transmission
 + Experiment 7: Simulation of Eye Diagram
 + Experiment 8: Familiarization of SDR
