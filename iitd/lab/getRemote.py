@@ -103,7 +103,7 @@ while(1):
         origin.push()
         print("----Pushed to git----")
         
-        time.sleep(60)  
+        time.sleep(900)  
 
 
 
