@@ -2,6 +2,7 @@
 import paramiko
 import warnings 
 import time
+from git import Repo
 from datetime import date
 
 output_file = 'paramiko.org' 
@@ -46,6 +47,13 @@ def paramiko_GKG(hostname, command):
 psCmd = "wmic cpu get loadpercentage"
 f = open("cpu_usage.txt", "w")
 
+# GIT Settings
+full_local_path = "/home/jinu/Documents/JINU/gitRepo/githubio/jinujayachandran.github.io"
+username = "jinujayachandran"
+password = "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"
+remote = f"https://jinujayachandran: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@github.com/jinujayachandran/jinujayachandran.github.io.git"
+repo = Repo(full_local_path)
+
 #f.write("   IP Address            CPU Load    ")
 #f.write("------------------    ---------------")
 while(1):
@@ -86,4 +94,13 @@ while(1):
         timeStr="Updated On "+current_time+"  "+d1
         f.write(timeStr)
         f.truncate()
+        
+        #Commit and push to GIT
+        origin = repo.remote(name="origin")
+        existing_branch = repo.heads['main'] 
+        existing_branch.checkout() 
+        repo.index.commit(timeStr)
+        origin.push()
+
+
 
