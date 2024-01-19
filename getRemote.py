@@ -68,7 +68,7 @@ while(1):
         print(fstr)
         f.write(fstr)
 
-        #usage = paramiko_GKG('10.208.67.26', psCmd)
+        #usage =paramiko_GKG('10.208.67.26', psCmd)
         #fstr ="10.208.67.26       "+(usage)+"%\n"
         #print(fstr)
         #f.write(fstr)
