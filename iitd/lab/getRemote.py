@@ -101,6 +101,7 @@ while(1):
         repo.index.add([file_path])
         repo.index.commit(commitStr)
         origin.push()
+        print("----Pushed to git----")
         
         time.sleep(60)  
 
