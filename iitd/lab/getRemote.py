@@ -37,7 +37,6 @@ def paramiko_GKG(hostname, command):
                 linenum = linenum+1
                 if(linenum == 2):
                         out = line.strip()
-                        print(out)
              
         # we are returning the output
         return out
@@ -87,9 +86,7 @@ while(1):
         usage = paramiko_GKG('10.208.66.217', psCmd)
         fstr ="10.208.66.217      "+(usage)+"%\n"
         print(fstr)
-        f.write(fstr)
-
-        time.sleep(5)
+        f.write(fstr)      
 
         f.write("\n\n\n")
         timeStr="Updated On "+current_time+"  "+d1
@@ -104,6 +101,8 @@ while(1):
         repo.index.add(['cpu_usage.txt'])
         repo.index.commit(commitStr)
         origin.push()
+        
+        time.sleep(60)  
 
 
 
