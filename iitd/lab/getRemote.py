@@ -54,17 +54,16 @@ password = "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"
 remote = f"git@github.com:jinujayachandran/jinujayachandran/jinujayachandran.github.io.git"
 repo = Repo(full_local_path,odbt=db.GitDB)
 
-#f.write("   IP Address            CPU Load    ")
-#f.write("------------------    ---------------")
 while(1):
         t = time.localtime()
         today = date.today()
         d1 = today.strftime("%d-%m-%Y")
         current_time = time.strftime("%H:%M:%S", t)
         f.seek(0)
-
+        f.write("   IP Address            CPU Load    \n")
+        f.write("------------------    ---------------\n")
         usage = paramiko_GKG('10.208.67.109', psCmd)
-        fstr ="10.208.67.109      "+(usage)+"%\n"
+        fstr ="    10.208.67.109      "+(usage)+"%\n"
         print(fstr)
         f.write(fstr)
 
@@ -74,17 +73,17 @@ while(1):
         #f.write(fstr)
 
         usage = paramiko_GKG('10.208.67.247', psCmd)
-        fstr ="10.208.67.247      "+(usage)+"%\n"
+        fstr ="    10.208.67.247      "+(usage)+"%\n"
         print(fstr)
         f.write(fstr)
 
         usage = paramiko_GKG('10.208.66.95', psCmd)
-        fstr ="10.208.66.95       "+(usage)+"%\n"
+        fstr ="    10.208.66.95       "+(usage)+"%\n"
         print(fstr)
         f.write(fstr)
 
         usage = paramiko_GKG('10.208.66.217', psCmd)
-        fstr ="10.208.66.217      "+(usage)+"%\n"
+        fstr ="    10.208.66.217      "+(usage)+"%\n"
         print(fstr)
         f.write(fstr)      
 
@@ -98,7 +97,8 @@ while(1):
         origin = repo.remote(name="origin")
         existing_branch = repo.heads['main'] 
         existing_branch.checkout() 
-        repo.index.add(['cpu_usage.txt'])
+        file_path = full_local_path+"/iitd/lab/cpu_usage.txt"
+        repo.index.add([file_path])
         repo.index.commit(commitStr)
         origin.push()
         
