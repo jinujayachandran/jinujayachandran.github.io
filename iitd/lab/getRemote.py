@@ -87,6 +87,21 @@ while(1):
         print(fstr)
         f.write(fstr)      
 
+        usage = paramiko_GKG('10.208.66.82', psCmd)
+        fstr ="    10.208.66.82       "+(usage)+"%\n"
+        print(fstr)
+        f.write(fstr)
+
+        usage = paramiko_GKG('10.208.67.153', psCmd)
+        fstr ="    10.208.67.153      "+(usage)+"%\n"
+        print(fstr)
+        f.write(fstr)
+
+        usage = paramiko_GKG('10.208.67.164', psCmd)
+        fstr ="    10.208.67.164      "+(usage)+"%\n"
+        print(fstr)
+        f.write(fstr)
+
         f.write("\n\n\n")
         timeStr="Updated On "+current_time+"  "+d1
         f.write(timeStr)
