@@ -3,7 +3,7 @@
 ## ACADEMICS
 Details of courses academic year wise
 ### AY2024-25
-+ [S6ECE: ECL332 - Communication Lab](ecl332cl_ay2024-25.md)
++ [S6ECE: ECL332 - Communication Lab](ecl332_ay2024-25.md)
 <!----### AY2022-2023
 The academic year 2022-2023 started on 12-Septmber-2022. The courses listed are the ones taken at College of Engineering Trivandrum.
 #### Courses
