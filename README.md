@@ -3,8 +3,9 @@
 ## ACADEMICS
 Details of courses academic year wise
 ### AY2024-25
++ [S4ECE: ECT206 - Computer Architecture and Microcontrollers](ect206cam.md)
 + [S6ECE: ECL332 - Communication Lab](ecl332_ay2024-25.md)
-<!----### AY2022-2023
+### AY2022-2023
 The academic year 2022-2023 started on 12-Septmber-2022. The courses listed are the ones taken at College of Engineering Trivandrum.
 #### Courses
 +  S7AEI: AET443 - FPGA Based System Design
@@ -13,7 +14,7 @@ The academic year 2022-2023 started on 12-Septmber-2022. The courses listed are 
 + [M2AI: 222TCS006 - Optimization Techniques](222tcs006ot.md)
 
 ## Trainings Taken
-+ [Basics of Python at CET](pythonbasics.md) -->
++ [Basics of Python at CET](pythonbasics.md)
 
 ## Research Area
 + [Orthogonal Time Frequency Space Modulation](https://ieeexplore.ieee.org/abstract/document/7925924)
