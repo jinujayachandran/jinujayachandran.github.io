@@ -1,5 +1,6 @@
 ## ECT206 - COMPUTER ARCHITECTURE AND MICROCONTROLLERS
 ### [Syllabus](https://drive.google.com/file/d/1uh9i-7BN3lplDYhyuFNH1YbSKD5RCCpP/view?usp=drive_link)
+### [Academic Calendar](https://drive.google.com/file/d/1cD2mi3n1ToyZx6Y0X-y9soUiAeEDdgox/view?usp=sharing).
 ### Assignments
 + Assignment 1: Write a C program (without using any of the C libraries) to implement the Booth's multiplication algorithm and division by replacement algorithm.
   - [Upload your files here. Deadline 11:00 AM, 04-Feb-2025](https://forms.gle/bxW7uex5cCWP5qns8)
