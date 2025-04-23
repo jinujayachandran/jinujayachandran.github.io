@@ -3,7 +3,7 @@
 ## ACADEMICS
 Details of courses academic year wise
 ### AY2024-25
-+ [S2AEI: IT WORKSHOP - FINAL EXAM ]
++ [S2AEI: IT WORKSHOP - FINAL EXAM ](s2aeiitw.md)
 + [S4ECE: ECT206 - Computer Architecture and Microcontrollers](ect206cam.md)
 + [S6ECE: ECL332 - Communication Lab](ecl332_ay2024-25.md)
 ### AY2022-2023
