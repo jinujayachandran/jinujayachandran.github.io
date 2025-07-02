@@ -1,10 +1,57 @@
+title: "Jinu Jayachandran"
+email: "your.email@example.com"
+description: >-
+  Assistant Professor | Wireless Communication | Optimization | Microcontrollers
+baseurl: "" # leave this blank for GitHub Pages user site
+url: "https://yourusername.github.io"
+
+theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-theme: minima
-markdown: GFM
-minima:
-  social_links: []
-  enable_header_nav: false
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-archives
+
+minimal_mistakes_skin: "default"  # or try "air", "dark", "neon", "mint"
+
+author:
+  name   : "Jinu Jayachandran"
+  avatar : "/assets/images/profile.jpg"
+  bio    : "Assistant Professor at CET. Researcher in Zak-OTFS and Wireless Systems."
+  location: "Trivandrum, India"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:your.email@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+
+# Navigation
+header_pages:
+  - about.md
+  - research.md
+  - teaching.md
+  - blog.md
+  - contact.md
+
+footer:
+  links:
+    - label: "Privacy"
+      url: "/privacy/"
+    - label: "Terms"
+      url: "/terms/"
