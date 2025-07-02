@@ -2,10 +2,9 @@ title: "Jinu Jayachandran"
 email: "your.email@example.com"
 description: >-
   Assistant Professor | Wireless Communication | Optimization | Microcontrollers
-baseurl: "" # leave this blank for GitHub Pages user site
+baseurl: "" # keep it blank for user site
 url: "https://yourusername.github.io"
 
-theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 plugins:
@@ -15,12 +14,16 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 
-minimal_mistakes_skin: "default"  # or try "air", "dark", "neon", "mint"
+markdown: kramdown
+kramdown:
+  input: GFM
+
+minimal_mistakes_skin: "air"  # try also: default, dark, mint, neon, contrast
 
 author:
   name   : "Jinu Jayachandran"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Assistant Professor at CET. Researcher in Zak-OTFS and Wireless Systems."
+  bio    : "Ph.D. | Zak-OTFS | Assistant Professor, CET"
   location: "Trivandrum, India"
   links:
     - label: "Email"
@@ -41,7 +44,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Navigation
 header_pages:
   - about.md
   - research.md
