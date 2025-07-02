@@ -1,8 +1,9 @@
 title: "Jinu Jayachandran"
 email: "your.email@example.com"
 description: >-
-  Assistant Professor | Wireless Communication | Optimization | Microcontrollers
-baseurl: "" # keep it blank for user site
+  Assistant Professor, CET | Wireless Communication | Optimization | Embedded Systems
+
+baseurl: ""
 url: "https://yourusername.github.io"
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -18,42 +19,38 @@ markdown: kramdown
 kramdown:
   input: GFM
 
-minimal_mistakes_skin: "air"  # try also: default, dark, mint, neon, contrast
+minimal_mistakes_skin: "air"
 
 author:
   name   : "Jinu Jayachandran"
   avatar : "/assets/images/profile.jpg"
-  bio    : "Ph.D. | Zak-OTFS | Assistant Professor, CET"
+  bio    : "Assistant Professor at CET. Ph.D. in Wireless Communication from IIT Delhi."
   location: "Trivandrum, India"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:your.email@example.com"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.co.in/citations?user=JaImdO8AAAAJ"
+    - label: "IEEE Xplore"
+      icon: "fas fa-book"
+      url: "https://ieeexplore.ieee.org/author/37088469967"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/yourprofile"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
 
 defaults:
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       layout: single
       author_profile: true
 
 header_pages:
-  - about.md
+  - index.md
   - research.md
+  - publications.md
   - teaching.md
-  - blog.md
   - contact.md
-
-footer:
-  links:
-    - label: "Privacy"
-      url: "/privacy/"
-    - label: "Terms"
-      url: "/terms/"
