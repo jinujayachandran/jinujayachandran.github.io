@@ -1,29 +1,15 @@
-remote_theme: "nicolas-van/jekyll-cv@gh-pages"
-
-title: "Dr. Jinu Jayachandran"
-description: "Ph.D. (IIT Delhi) | Assistant Professor | Wireless Communication | Optimization"
-
-name: "Jinu Jayachandran"
+title: "Jinu Jayachandran"
+description: "Assistant Professor | CET | Wireless Communication, OTFS, Optimization"
 email: "your.email@example.com"
-tel: "+91-9876543210"
-website: "https://yourusername.github.io"
 
-github: "yourusername"
-linkedin: "your-linkedin-profile"
-scholar: "https://scholar.google.com/citations?user=JaImdO8AAAAJ"
+baseurl: "" # for user pages
+url: "https://yourusername.github.io"
 
-address:
-  street: "Department of Electronics and Communication"
-  city: "College of Engineering Trivandrum"
-  zip: "695016"
-  region: "Kerala"
-  country: "India"
+theme: jekyll-theme-cayman
 
-sections:
-  - about
-  - education
-  - experience
-  - publications
-  - teaching
-  - skills
-  - links
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
