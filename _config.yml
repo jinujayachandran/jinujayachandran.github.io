@@ -1,56 +1,29 @@
-title: "Jinu Jayachandran"
+remote_theme: "nicolas-van/jekyll-cv@gh-pages"
+
+title: "Dr. Jinu Jayachandran"
+description: "Ph.D. (IIT Delhi) | Assistant Professor | Wireless Communication | Optimization"
+
+name: "Jinu Jayachandran"
 email: "your.email@example.com"
-description: >-
-  Assistant Professor, CET | Wireless Communication | Optimization | Embedded Systems
+tel: "+91-9876543210"
+website: "https://yourusername.github.io"
 
-baseurl: ""
-url: "https://yourusername.github.io"
+github: "yourusername"
+linkedin: "your-linkedin-profile"
+scholar: "https://scholar.google.com/citations?user=JaImdO8AAAAJ"
 
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+address:
+  street: "Department of Electronics and Communication"
+  city: "College of Engineering Trivandrum"
+  zip: "695016"
+  region: "Kerala"
+  country: "India"
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-include-cache
-  - jekyll-archives
-
-markdown: kramdown
-kramdown:
-  input: GFM
-
-minimal_mistakes_skin: "air"
-
-author:
-  name   : "Jinu Jayachandran"
-  avatar : "/assets/images/profile.jpg"
-  bio    : "Assistant Professor at CET. Ph.D. in Wireless Communication from IIT Delhi."
-  location: "Trivandrum, India"
-  links:
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
-      url: "https://scholar.google.co.in/citations?user=JaImdO8AAAAJ"
-    - label: "IEEE Xplore"
-      icon: "fas fa-book"
-      url: "https://ieeexplore.ieee.org/author/37088469967"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://linkedin.com/in/yourprofile"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/yourusername"
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - contact.md
+sections:
+  - about
+  - education
+  - experience
+  - publications
+  - teaching
+  - skills
+  - links
