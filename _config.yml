@@ -7,6 +7,4 @@ theme: minima
 markdown: GFM
 minima:
   social_links: []
-  enable_header_nav: true
-    - about.md
-    - publications.md
+  enable_header_nav: false
