@@ -43,9 +43,9 @@ Details of courses academic year-wise:
 
 ## 📚 Technical Publications
 
-- [Zak-OTFS with Interleaved Pilots to Extend the Region of Predictable Operation](https://ieeexplore.ieee.org/abstract/document/11033202)
+- [Zak-OTFS with Interleaved Pilots to Extend the Region of Predictable Operation - IEEE TVT (2025)](https://ieeexplore.ieee.org/abstract/document/11033202)
 - [Efficient Techniques for In-Band System Info Broadcast in Multi-Cell Massive MIMO – IEEE TCOM (2020)](https://ieeexplore.ieee.org/document/9133545)
-- [ICASSP 2020 – In-band System Information Broadcast](https://ieeexplore.ieee.org/document/9053435)
+- [In-band System Information Broadcast - ICASSP (2020)](https://ieeexplore.ieee.org/document/9053435)
 - [Virtual Learning for Electronics – IEEE EDUCON (2013)](https://ieeexplore.ieee.org/document/6530185)
 - [Object Recognition Robot – CCDC (2009)](https://ieeexplore.ieee.org/document/5192399)
  
