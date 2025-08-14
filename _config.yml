@@ -1,15 +1,183 @@
+# -------------------------
+# Site Identity
+# -------------------------
 title: "Jinu Jayachandran"
+name:  "Jinu Jayachandran"
 description: "Assistant Professor | CET | Wireless Communication, OTFS, Optimization"
-email: "your.email@example.com"
+url: "https://yourusername.github.io"   # ← update to your GitHub Pages domain
+baseurl: ""                              # user/organization site → leave empty
+locale: "en-IN"
+timezone: "Asia/Kolkata"
 
-baseurl: "" # for user pages
-url: "https://yourusername.github.io"
+# -------------------------
+# Theme (Minimal Mistakes)
+# -------------------------
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"   # options: default, air, contrast, dark, dirt, neon, sunrise, etc.
 
-theme: jekyll-theme-cayman
-
+# -------------------------
+# Plugins (GitHub Pages safe)
+# -------------------------
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-include-cache   # required by Minimal Mistakes for performance
 
+# -------------------------
+# Markdown / Code
+# -------------------------
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  syntax_highlighter: rouge
+highlighter: rouge
+
+# Enable MathJax site-wide (remove if not needed)
+markdown_ext: "md,mkdown,mkdn,markdown"
+mathjax: true
+
+# -------------------------
+# SEO / Social
+# -------------------------
+author:
+  name: "Jinu Jayachandran"
+  avatar: "/assets/images/jinu.jpg"   # put an image at this path or remove
+  bio: "Assistant Professor, CET. Wireless Communication • OTFS • Optimization."
+  location: "Trivandrum, India"
+  email: "your.email@example.com"     # ← update
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.co.in/citations?user=JaImdO8AAAAJ&hl=en"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/0000-0002-3167-4986"
+    - label: "IEEE Xplore"
+      icon: "fas fa-microchip"
+      url: "https://ieeexplore.ieee.org/author/37088469967"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"   # ← update
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/yourprofile/"  # ← update
+
+# Open Graph / Twitter Card image (used when sharing links)
+og_image: "/assets/images/og-card.jpg"   # add a 1200x630 image or remove
+
+# Optional analytics (uncomment and add your ID)
+# google_analytics: "G-XXXXXXXXXX"
+
+# -------------------------
+# Navigation & UI (Minimal Mistakes)
+# -------------------------
+# Enable search and breadcrumbs
+search: true
+breadcrumbs: true
+
+# Create _data/navigation.yml for clean menus (recommended).
+# Example file contents:
+# main:
+#   - title: "Home"
+#     url: /
+#   - title: "Courses"
+#     url: /courses/
+#   - title: "Publications"
+#     url: /publications/
+#   - title: "Training"
+#     url: /training/
+#   - title: "Contact"
+#     url: /contact/
+
+# -------------------------
+# Collections (nice for Courses/Publications)
+# -------------------------
+collections:
+  courses:
+    output: true
+    permalink: /courses/:name/
+  publications:
+    output: true
+    permalink: /publications/:name/
+  training:
+    output: true
+    permalink: /training/:name/
+
+# -------------------------
+# Defaults (applied front matter)
+# -------------------------
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+      toc_sticky: true
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+      comments: false
+  - scope:
+      path: ""
+      type: "courses"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: true
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: false
+  - scope:
+      path: ""
+      type: "training"
+    values:
+      layout: "single"
+      author_profile: true
+      toc: false
+
+# -------------------------
+# Sitemap / Feed
+# -------------------------
+sitemap:
+  exclude:
+    - "/assets/"
+    - "/node_modules/"
+  changefreq: "monthly"
+  priority: 0.8
+
+feed:
+  path: feed.xml
+
+# -------------------------
+# Build settings
+# -------------------------
+permalink: /:categories/:title/
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - package.json
+  - package-lock.json
+  - LICENSE
+  - CNAME
+include:
+  - _pages
+
+# Cache busting for assets (optional)
+# assets:
+#   cache_buster: true
