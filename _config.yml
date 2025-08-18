@@ -47,7 +47,7 @@ author:
   avatar: "/images/Jinu_image.jpg"   # put an image at this path or remove
   bio: "Assistant Professor, CET. Wireless Communication • OTFS • Optimization."
   location: "Trivandrum, India"
-  email: "your.email@example.com"     # ← update
+  email: "jinujayachandran@gmail.com"     # ← update
   links:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
@@ -60,10 +60,10 @@ author:
       url: "https://ieeexplore.ieee.org/author/37088469967"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"   # ← update
+      url: "https://github.com/jinujayachandran"   # ← update
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/yourprofile/"  # ← update
+      url: "https://www.linkedin.com/in/jinu-jayachandran-52aa3413/"  # ← update
 
 # Open Graph / Twitter Card image (used when sharing links)
 og_image: "/assets/images/og-card.jpg"   # add a 1200x630 image or remove
