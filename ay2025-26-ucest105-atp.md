@@ -32,8 +32,9 @@ Here you’ll find all essential resources, class information, labsheets, and ev
 - [Official Python Documentation](https://docs.python.org/3/)  
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
 - [Python Tutor (Visualize Code Execution)](https://pythontutor.com/)  
-- [Google Colab](https://colab.research.google.com/) – Run Python in the browser  
+- [Google Colab](https://colab.research.google.com/) – Run Python in the browser
 - [Spyder](https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html) - First steps with Spyder for Python programming
+  
 ---
 
 ### 📖 Books
