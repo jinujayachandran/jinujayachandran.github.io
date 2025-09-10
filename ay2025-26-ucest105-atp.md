@@ -1,7 +1,7 @@
 ## 📘 UCEST105 – Algorithmic Thinking with Python
 
 Welcome to the course page for **UCEST105 – Algorithmic Thinking with Python**.  
-Here you’ll find all essential resources, class information, labsheets, and evaluation details.
+Here you’ll find all essential resources, class information, labsheets, projects, and evaluation details.
 
 ---
 
@@ -28,24 +28,23 @@ Here you’ll find all essential resources, class information, labsheets, and ev
 
 ---
 
+### 📂 Projects
+- [Project Guidelines](https://drive.google.com/file/d/1DmYJquL_e6EZzHouY-H4FeCV-LnnDH9O/view?usp=drive_link)  
+- [Project Proposal Template](https://docs.google.com/document/d/1LICdAIRVv_c4JFYid51FcWDFRfba08PJ/edit?usp=drive_link&ouid=109861562172723353410&rtpof=true&sd=true)  
+- [Deliverables and Evaluation Rubrics](https://drive.google.com/file/d/1DmYJquL_e6EZzHouY-H4FeCV-LnnDH9O/view?usp=drive_link)  
+- [Student Project Proposal Submissions](https://forms.gle/6pxQdmqsoihr1c6N9) | Deadline: 15-September-2025
+
+---
+
 ### 📚 Learning Resources
 - [Official Python Documentation](https://docs.python.org/3/)  
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
 - [Python Tutor (Visualize Code Execution)](https://pythontutor.com/)  
-- [Google Colab](https://colab.research.google.com/) – Run Python in the browser
+- [Google Colab](https://colab.research.google.com/) – Run Python in the browser  
 - [Spyder](https://docs.spyder-ide.org/current/videos/first-steps-with-spyder.html) - First steps with Spyder for Python programming
   
 ---
 
 ### 📖 Books
 **Recommended Textbooks**
-- [Ajeesh Ramanujan, Narasimhan T, *Algorithmic Thinking with python*,  APJ Abdul Kalam Technological University.](https://drive.google.com/file/d/1RpXnWihziy5ypXZXh2Do5LKRLYbslGGp/view?usp=drive_link)
-
----
-
-### 🎯 Course Instructor
-**Dr. Jinu Jayachandran**  
-Assistant Professor, Department of Electronics & Communication Engineering  
-College of Engineering Trivandrum (CET)  
-
----
+- [Ajeesh Ramanujan, Narasimhan T, *Algorithmic Thinking wi*]()
