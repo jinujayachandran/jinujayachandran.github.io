@@ -33,6 +33,7 @@ Here you’ll find all essential resources, class information, labsheets, projec
 - [Project Proposal Template](https://docs.google.com/document/d/1LICdAIRVv_c4JFYid51FcWDFRfba08PJ/edit?usp=drive_link&ouid=109861562172723353410&rtpof=true&sd=true)  
 - [Deliverables and Evaluation Rubrics](https://drive.google.com/file/d/1DmYJquL_e6EZzHouY-H4FeCV-LnnDH9O/view?usp=drive_link)
 - [Student Project Proposal Submissions](https://forms.gle/6pxQdmqsoihr1c6N9) | Deadline: 15-September-2025
+  
 ---
 
 ### 📚 Learning Resources
