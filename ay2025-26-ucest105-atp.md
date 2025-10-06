@@ -26,6 +26,7 @@ Here you’ll find all essential resources, class information, labsheets, projec
 ### 📝 Labsheets
 - [Experiment 1 – Introduction to Python](https://drive.google.com/file/d/1XOi2G0sRO0aG7uy77DQ8TXl5i-1Yf3wF/view?usp=drive_link)
 - [Experiment 2 – Datatypes](https://drive.google.com/file/d/1x6wMULFHM20mQqOkSXdfRiNSeFK7Bp00/view?usp=drive_link)
+- [Experiment 3 - Inputs, Operators, and Decisions](https://drive.google.com/file/d/11PisfthZfHxsJW4BhezQ0ZLWT0Jk2UPc/view?usp=sharing)
 
 ---
 
