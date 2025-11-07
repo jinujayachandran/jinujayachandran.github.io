@@ -33,9 +33,11 @@ Here you’ll find all essential resources, class information, labsheets, projec
 ---
 
 ### ✅ Assignments
-- [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) || **Deadline: 10-November-2025**
+
+- [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) — **Deadline: 10-November-2025**
 
 ---
+
 ### 📂 Projects
 - [Project Guidelines](https://drive.google.com/file/d/1DmYJquL_e6EZzHouY-H4FeCV-LnnDH9O/view?usp=drive_link)  
 - [Project Proposal Template](https://docs.google.com/document/d/1LICdAIRVv_c4JFYid51FcWDFRfba08PJ/edit?usp=drive_link&ouid=109861562172723353410&rtpof=true&sd=true)  
