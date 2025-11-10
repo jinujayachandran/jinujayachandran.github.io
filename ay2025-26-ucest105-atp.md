@@ -29,6 +29,7 @@ Here you’ll find all essential resources, class information, labsheets, projec
 - [Experiment 3 - Inputs, Operators, and Decisions](https://drive.google.com/file/d/11PisfthZfHxsJW4BhezQ0ZLWT0Jk2UPc/view?usp=sharing)
 - [Experiment 4 - Loops](https://drive.google.com/file/d/1enJtjUUzd-M7SkrRJW-mgOHB2WGH0cop/view?usp=drive_link)
 - [Experiment 5 - More Loops](https://drive.google.com/file/d/12JoCyaGrdaEavk9cNVEZxl4lQFTflY1i/view?usp=drive_link)
+- [Experiment 6 - Functions, List, Dictionary](https://drive.google.com/file/d/1IrDVqjOIgnu-r0bTG91aDT6aHmaHnODt/view?usp=drive_link)
 
 ---
 
