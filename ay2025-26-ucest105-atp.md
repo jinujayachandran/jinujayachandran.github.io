@@ -35,7 +35,8 @@ Here you’ll find all essential resources, class information, labsheets, projec
 
 ### ✅ Assignments
 
-- [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) — **Deadline: 10-November-2025**
+- [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) — **Deadline: 10-November-2025, 4.30PM**
+- [Assignment 2](https://drive.google.com/file/d/1-d6IWnA7nwL8FAfeyrLIKobOgQ1E7wOP/view?usp=drive_link) — **Deadline: 17-November-2025, 4.15PM**
 
 ---
 
