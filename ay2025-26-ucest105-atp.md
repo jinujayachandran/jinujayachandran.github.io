@@ -33,6 +33,24 @@ Here you’ll find all essential resources, class information, labsheets, projec
 
 ---
 
+### 📊 Lecture Slides
+- [PROBLEM SOLVING STRATEGIES](https://drive.google.com/file/d/1erfm3SreKAwcTLErqE-balcgo6zsnA0O/view?usp=drive_link)
+- [PROBLEM SOLVING PROCESS](https://drive.google.com/file/d/1zc0T5JyGgC3Cy8ze460md93sSHVs607i/view?usp=drive_link)
+- [PYTHON BASICS: VARIABLES, EXPRESSIONS, I/O](https://drive.google.com/file/d/1tvcUKFDq6wMdBQEDQSFJv-Jlm4p6J1Qb/view?usp=drive_link)
+- [PSEUDOCODE AND ALGORITHMS](https://drive.google.com/file/d/1onEL9hAiJjZtbUu-LRCNoZuyC0jhiCBm/view?usp=drive_link)
+- [PYTHON: CONDITIONS AND LOOPS](https://drive.google.com/file/d/1QJeRUQy9x78E9gJ4cyvv6Bkep-YLkVmh/view?usp=drive_link)
+- [PYTHON: LISTS, TUPLE, SET](https://drive.google.com/file/d/132k-O2KH_a0TqUj2ztlRPD1cWZaIqB7a/view?usp=drive_link)
+- [PYTHON: STRINGS, DICTIONARY](https://drive.google.com/file/d/1-aFOWBzMIf0jOsBF2QRMKwc68lzLPl5C/view?usp=drive_link)
+- [PYTHON: FUNCTIONS](https://drive.google.com/file/d/1iHIXVazJpQ3bPxM3uhJ4yr-h-4EVhcEb/view?usp=drive_link)
+- [RECURSION](https://drive.google.com/file/d/1C41l40DxEb4DYWH7g9c7idxiYQiMOvnw/view?usp=drive_link)
+- [COMPUTATIONAL APPROACHES: BRUTE FORCE](https://drive.google.com/file/d/1R4JlBgVRQcIw4HC2sPCXkO_T_3u6fqQC/view?usp=drive_link)
+- [COMPUTATIONAL APPROACHES: DIVIDE AND CONQUER](https://drive.google.com/file/d/1LfhQxXPhQTr52HDFK4heIozvaaUtN2B_/view?usp=drive_link)
+- [COMPUTATIONAL APPROACHES: DYNAMIC PROGRAMMING](https://drive.google.com/file/d/1lnORyBogqyoJ9TZGW4FCFgN1uFXTRQOD/view?usp=drive_link)
+- [COMPUTATIONAL APPROACHES: GREEDY ALGORITHM](https://drive.google.com/file/d/1XSNH6LWLicuN-5glVsa69HyLBXZGJELk/view?usp=drive_link)
+- [COMPUTATIONAL APPROACHES: RANDOMIZED APPROACH](https://drive.google.com/file/d/1TJC4JlpwClrWMG10YJvmU4R6B1O3C07P/view?usp=drive_link)
+
+---
+
 ### ✅ Assignments
 
 - [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) — **Deadline: 10-November-2025, 4.30PM**
