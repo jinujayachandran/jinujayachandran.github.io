@@ -36,7 +36,15 @@ Here you’ll find all essential resources, class information, labsheets, projec
 ### ✅ Assignments
 
 - [Assignment 1](https://drive.google.com/file/d/1TvpS2fQKF0VKuVN6suo9kzXrHtyPek3s/view?usp=drive_link) — **Deadline: 10-November-2025, 4.30PM**
-- [Assignment 2](https://drive.google.com/file/d/1-d6IWnA7nwL8FAfeyrLIKobOgQ1E7wOP/view?usp=drive_link) — **Deadline: 17-November-2025, 4.15PM**
+- [Assignment 2](https://drive.google.com/file/d/1-d6IWnA7nwL8FAfeyrLIKobOgQ1E7wOP/view?usp=drive_link) — **Deadline: ~~17-November-2025, 4.15PM~~ 18-November-2025, 3.45PM**
+
+---
+
+### 🧪 Series Exams
+
+#### 📘 Series 1
+- [Question Paper](https://drive.google.com/file/d/1kdC_dinzRN2C_Gy93_qq7Dhm7tEGuABx/view?usp=drive_link)  
+- [Evaluation Scheme](https://drive.google.com/file/d/1IB_olNqhzlbfevCIe3brSqYrIHK9Lck2/view?usp=drive_link)  
 
 ---
 
