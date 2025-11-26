@@ -63,7 +63,11 @@ Here you’ll find all essential resources, class information, labsheets, projec
 
 #### 📘 Series 1
 - [Question Paper](https://drive.google.com/file/d/1kdC_dinzRN2C_Gy93_qq7Dhm7tEGuABx/view?usp=drive_link)  
-- [Evaluation Scheme](https://drive.google.com/file/d/1IB_olNqhzlbfevCIe3brSqYrIHK9Lck2/view?usp=drive_link)  
+- [Evaluation Scheme](https://drive.google.com/file/d/1IB_olNqhzlbfevCIe3brSqYrIHK9Lck2/view?usp=drive_link)
+  
+#### 📘 Series 2
+- [Question Paper](https://drive.google.com/file/d/1ijm1-Ru-cjYaGk1phII_thPw6n1sQRD3/view?usp=drive_link)  
+- [Evaluation Scheme](https://drive.google.com/file/d/1w04YQryXJwcueMNS8wFCyEFMkHNVclV_/view?usp=drive_link)  
 
 ---
 
