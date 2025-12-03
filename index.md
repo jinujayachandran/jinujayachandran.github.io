@@ -15,6 +15,7 @@ Department of Electronics and Communication Engineering
 ### 📘 Academic Year 2025–26
 - [S1AEI: UCEST105 - Algorithmic Thinking with Python](ay2025-26-ucest105-atp.md)
 - [S8ECE: ECT434 - Secure Communication](ay2025-26_ect434_sc.md)
+- [S6ECE: ECL332 - Communication Lab](ay2025-26_ecl332_commlab.md)
   
 ### 📘 [Previous Academic Years](prev_acad.md)
 
