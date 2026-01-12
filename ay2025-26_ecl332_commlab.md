@@ -25,6 +25,7 @@ Here you’ll find all essential resources, class information, and evaluation de
 + [Experiment 1: Probability and Random Variables](https://drive.google.com/file/d/1a0XwNZxv8Sw1PM1q1JFgWgZyLPscKw7f/view?usp=drive_link)
 + [Experiment 2: Pulse Code Modulation and Demodulation](https://drive.google.com/file/d/1rGkBfuynIQ1HIJFFiYzEs1noYcZr5c-O/view?usp=drive_link)
   - [Image for Simulation](https://drive.google.com/file/d/1q7RL30nObqfEYPhRDw6OUnv967cGNWI9/view?usp=drive_link)
+  - [Sample Output](https://drive.google.com/file/d/1dutRybKtEqoCakOOtrhBRaWk4oieBPDp/view?usp=drive_link)
 
 ---
 
