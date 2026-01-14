@@ -26,7 +26,7 @@ Here you’ll find all essential resources, class information, and evaluation de
 + [Experiment 2: Pulse Code Modulation and Demodulation](https://drive.google.com/file/d/1rGkBfuynIQ1HIJFFiYzEs1noYcZr5c-O/view?usp=drive_link)
   - [Image for Simulation](https://drive.google.com/file/d/1q7RL30nObqfEYPhRDw6OUnv967cGNWI9/view?usp=drive_link)
   - [Sample Output](https://drive.google.com/file/d/1dutRybKtEqoCakOOtrhBRaWk4oieBPDp/view?usp=drive_link)
-+ [Experiment 3: Simulation of BPSK Modulation and Demodulation in an AWGN Channel](https://drive.google.com/file/d/1BVCyj50gJ5qYREphaByQz1KmXD8IyOOB/view?usp=drive_link)
++ [Experiment 3: Simulation of BPSK Modulation and Demodulation in an AWGN Channel](https://drive.google.com/file/d/1uvK_LYuVa3j8vRtpXnj1V2ui0wr9mQ8X/view?usp=drive_link)
 
 ---
 
