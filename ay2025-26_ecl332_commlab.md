@@ -28,6 +28,7 @@ Here you’ll find all essential resources, class information, and evaluation de
   - [Sample Output](https://drive.google.com/file/d/1dutRybKtEqoCakOOtrhBRaWk4oieBPDp/view?usp=drive_link)
 + [Experiment 3: Simulation of BPSK Modulation and Demodulation in an AWGN Channel](https://drive.google.com/file/d/1uvK_LYuVa3j8vRtpXnj1V2ui0wr9mQ8X/view?usp=drive_link)
 + [Experiment 4: Hardware Implementation of BPSK Modulation and Demodulation](https://drive.google.com/file/d/1_WdFfogTLjfIsGhJ4UwxIz1uvzECFI1J/view?usp=drive_link)
++ [Experiment 5: Simulation of BPSK Modulation and Demodulation in an AWGN Channel](https://drive.google.com/file/d/1wRAHaE5BGFrrVbrJZdAvTUb8QczwoOwA/view?usp=drive_link)
 
 ---
 
