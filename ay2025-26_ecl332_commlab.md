@@ -30,6 +30,7 @@ Here you’ll find all essential resources, class information, and evaluation de
 + [Experiment 4: Hardware Implementation of BPSK Modulation and Demodulation](https://drive.google.com/file/d/1_WdFfogTLjfIsGhJ4UwxIz1uvzECFI1J/view?usp=drive_link)
 + [Experiment 5: Simulation of QPSK Modulation and Demodulation in an AWGN Channel](https://drive.google.com/file/d/1wRAHaE5BGFrrVbrJZdAvTUb8QczwoOwA/view?usp=drive_link)
 + [Experiment 6: Hardware Implementation of Delta Modulator and Demodulator](https://drive.google.com/file/d/1q5RooF8-gVWV-TLQmSoPr4nptHiTPBfg/view?usp=drive_link)
++ [Experiment 7: Simulation of Pulse Shaping for Transmission](https://drive.google.com/file/d/1XAQXjD8t-uDSz6N_Poy8ulh7Kw9tUSnV/view?usp=drive_link)
 
 ---
 
