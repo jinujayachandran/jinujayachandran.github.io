@@ -18,6 +18,7 @@ Here you’ll find all essential resources, class information, and evaluation de
 ### 👥 Class Information
 - [Student List]  
 - [Course Coverage – What Happens in Class?]
+- [Evaluation](https://docs.google.com/spreadsheets/d/1W4x43TkVITJ-qJOQOdFsyUhIq-ZrXCqstU4MtHeTsoQ/edit?usp=drive_link)
 
 ---
 
