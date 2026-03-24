@@ -2,6 +2,7 @@
 
 ### 📘 Academic Year 2024–25
 - [S5ECE: ECT303 - Digital Signal Processing](ay2025-26_ect303dsp.md)
+- [S2AEI : UCEST105 - Algorithmic Thinking with Python](ay2025-26-ucest105-atp.md)
   
 ### 📘 Academic Year 2024–25
 - [S2AEI: IT Workshop – Final Exam](s2aeiitw.md)
