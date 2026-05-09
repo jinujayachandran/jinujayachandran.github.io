@@ -5,29 +5,9 @@ permalink: /
 author_profile: true
 ---
 
-**Assistant Professor**  
-Department of Electronics and Communication Engineering  
-[College of Engineering Trivandrum](https://www.cet.ac.in)  
-
----
-
-## 🎓 Academic Courses
-
-### 📘 Academic Year 2024–25
-- [S2AEI: IT Workshop – Final Exam](s2aeiitw.md)
-- [S4ECE: ECT206 – Computer Architecture and Microcontrollers](ect206cam.md)
-- [S6ECE: ECL332 – Communication Lab](ecl332_ay2024-25.md)
-
-### 📘 Academic Year 2022–23
-- S7AEI: AET443 – FPGA Based System Design  
-- [S8ECE: ECT402 – Wireless Communication](ect402wc.md)  
-- [S6ECE: ECL332 – Communication Lab](ecl332cl.md)  
-- [M2AI: 222TCS006 – Optimization Techniques](222tcs006ot.md)
-
----
-
-## 🧑‍🏫 Trainings Conducted
-- [Basics of Python at CET](pythonbasics.md)
+**Post Doctral Researcher**  
+Department of Electronic and Electrical Engineering  
+[Trinity College Dublin, Ireland](https://www.tcd.ie/eleceng/)  
 
 ---
 
@@ -72,6 +52,27 @@ Department of Electronics and Communication Engineering
 |-------------|------|----------|
 | [CET](https://www.ee.cet.ac.in/) | Assistant Professor | Current |
 | [GEC Wayanad](https://www.gecwyd.ac.in/) | Assistant Professor | 37 months |
+
+---
+
+
+## 🎓 Academic Courses
+
+### 📘 Academic Year 2024–25
+- [S2AEI: IT Workshop – Final Exam](s2aeiitw.md)
+- [S4ECE: ECT206 – Computer Architecture and Microcontrollers](ect206cam.md)
+- [S6ECE: ECL332 – Communication Lab](ecl332_ay2024-25.md)
+
+### 📘 Academic Year 2022–23
+- S7AEI: AET443 – FPGA Based System Design  
+- [S8ECE: ECT402 – Wireless Communication](ect402wc.md)  
+- [S6ECE: ECL332 – Communication Lab](ecl332cl.md)  
+- [M2AI: 222TCS006 – Optimization Techniques](222tcs006ot.md)
+
+---
+
+## 🧑‍🏫 Trainings Conducted
+- [Basics of Python at CET](pythonbasics.md)
 
 ---
 
