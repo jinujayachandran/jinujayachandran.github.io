@@ -5,24 +5,14 @@ permalink: /
 author_profile: true
 ---
 
-**Assistant Professor**  
+**Post Doctral Researcher**  
+Department of Electronic and Electrical Engineering  
+[Trinity College Dublin, Ireland](https://www.tcd.ie/eleceng/)  
+
+
+**Assistant Professor (On Sabbatical)**  
 Department of Electronics and Communication Engineering  
 [College of Engineering Trivandrum](https://www.cet.ac.in)  
-
----
-
-## 🎓 Academic Courses
-### 📘 Academic Year 2025–26
-- [S8ECE: ECT434 - Secure Communication](ay2025-26_ect434_sc.md)
-- [S6ECE: ECL332 - Communication Lab](ay2025-26_ecl332_commlab.md)
-- [S6AEI: AET302 - Digital Signal Processing](ay2025-26_aet302dsp.md)
-  
-### 📘 [Previous Academic Years](prev_acad.md)
-
----
-
-## 🧑‍🏫 Trainings Conducted
-- [Basics of Python at CET](pythonbasics.md)
 
 ---
 
@@ -67,6 +57,20 @@ Department of Electronics and Communication Engineering
 |-------------|------|----------|
 | [CET](https://www.ee.cet.ac.in/) | Assistant Professor | Current |
 | [GEC Wayanad](https://www.gecwyd.ac.in/) | Assistant Professor | 37 months |
+
+---
+## 🎓 Academic Courses
+### 📘 Academic Year 2025–26
+- [S8ECE: ECT434 - Secure Communication](ay2025-26_ect434_sc.md)
+- [S6ECE: ECL332 - Communication Lab](ay2025-26_ecl332_commlab.md)
+- [S6AEI: AET302 - Digital Signal Processing](ay2025-26_aet302dsp.md)
+  
+### 📘 [Previous Academic Years](prev_acad.md)
+
+---
+
+## 🧑‍🏫 Trainings Conducted
+- [Basics of Python at CET](pythonbasics.md)
 
 ---
 
